@@ -138,18 +138,18 @@ model_training_LOO_subject.py "/Data/Processed" "models" "cuda:0" "DeepMFMini"
 
 ## License
 
-The following files are released under Apache License 2.0 (`Apache-2.0`) (see [Code/LICENSE](./Code/LICENSE)):
+The following files are released under the Apache License 2.0 (`Apache-2.0`) (see [Code/LICENSE](./Code/LICENSE)):
 
 - `Code/`
 
-The following files are released under Apache License 2.0 (`Apache-2.0`) (see [Preprocessing/LICENSE](./Preprocessing/LICENSE)):
+The following files are released under the Apache License 2.0 (`Apache-2.0`) (see [Preprocessing/LICENSE](./Preprocessing/LICENSE)):
 
 - `Preprocessing/`
 
-The following files are released under under Creative Commons Attribution-NoDerivatives 4.0 International license (`CC BY-ND 4.0`) (see [Data/LICENSE](./Data/LICENSE)):
+The following files are released under the Creative Commons Attribution-NoDerivatives 4.0 International license (`CC BY-ND 4.0`) (see [Data/LICENSE](./Data/LICENSE)):
 
 - `Data/`
 
-The following files are released under under Creative Commons Attribution-NoDerivatives 4.0 International license (`CC BY-ND 4.0`) (see [assets/LICENSE](./assets/LICENSE)):
+The following files are released under the Creative Commons Attribution-NoDerivatives 4.0 International license (`CC BY-ND 4.0`) (see [assets/LICENSE](./assets/LICENSE)):
 
 - `assets/`
