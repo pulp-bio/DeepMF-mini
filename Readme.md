@@ -135,6 +135,30 @@ To train our model on our data using a gpu, run:
 model_training_LOO_subject.py "/Data/Processed" "models" "cuda:0" "DeepMFMini"
 ```
 
+## Authors
+This work was realized at theat the [Integrated Systems Laboratory (IIS)](https://iis.ee.ethz.ch/) at ETH Zurich by:
+
+- [Carlos Santos](linkedin.com/in/carlos-santos-mayo)
+- [Sebastian Frey](https://scholar.google.com/citations?user=7jhiqz4AAAAJ&hl=en)
+- [Andrea Cossettini](https://scholar.google.com/citations?hl=en&user=d8O91jIAAAAJ)
+- [Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ)
+- [Victor Kartsch](https://scholar.google.com/citations?hl=en&user=0LY6szsAAAAJ)
+
+
+# Citation
+If you would like to reference the project, please cite the following paper:
+
+```plaintext
+@misc{santos2025realtimesingleearwearableecg,
+      title={Real-Time, Single-Ear, Wearable ECG Reconstruction, R-Peak Detection, and HR/HRV Monitoring}, 
+      author={Carlos Santos and Sebastian Frey and Andrea Cossettini and Luca Benini and Victor Kartsch},
+      year={2025},
+      eprint={2505.01738},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2505.01738}, 
+}
+```
 
 ## License
 
