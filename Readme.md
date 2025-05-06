@@ -138,7 +138,7 @@ model_training_LOO_subject.py "/Data/Processed" "models" "cuda:0" "DeepMFMini"
 ## Authors
 This work was realized at theat the [Integrated Systems Laboratory (IIS)](https://iis.ee.ethz.ch/) at ETH Zurich by:
 
-- [Carlos Santos](linkedin.com/in/carlos-santos-mayo)
+- [Carlos Santos](https://linkedin.com/in/carlos-santos-mayo)
 - [Sebastian Frey](https://scholar.google.com/citations?user=7jhiqz4AAAAJ&hl=en)
 - [Andrea Cossettini](https://scholar.google.com/citations?hl=en&user=d8O91jIAAAAJ)
 - [Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ)
